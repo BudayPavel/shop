@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cef2830b-de50-464f-8f0e-9b882238ca55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,37 +81,61 @@
       <option name="presentableId" value="Default" />
       <updated>1598089210061</updated>
       <workItem from="1598089212431" duration="1468000" />
-      <workItem from="1598090721565" duration="588000" />
+      <workItem from="1598090721565" duration="1436000" />
     </task>
+    <task id="LOCAL-00001" summary="Add nuxt">
+      <created>1598091997233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598091997233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add nuxt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add nuxt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="674" y="203" key="#npm_serve" timestamp="1598090651871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="203" key="#npm_serve/0.0.1920.1040@0.0.1920.1040" timestamp="1598090651871" />
+    <state x="558" y="59" key="CommitChangelistDialog2" timestamp="1598091890132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="59" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598091890132" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1598089659715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598089659715" />
-    <state width="949" height="261" key="GridCell.Tab.0.bottom" timestamp="1598090962854">
+    <state width="949" height="151" key="GridCell.Tab.0.bottom" timestamp="1598092095461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598090962854" />
-    <state width="949" height="261" key="GridCell.Tab.0.center" timestamp="1598090962853">
+    <state width="949" height="151" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598092095461" />
+    <state width="949" height="151" key="GridCell.Tab.0.center" timestamp="1598092095461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598090962853" />
-    <state width="949" height="261" key="GridCell.Tab.0.left" timestamp="1598090962853">
+    <state width="949" height="151" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598092095461" />
+    <state width="949" height="151" key="GridCell.Tab.0.left" timestamp="1598092095460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598090962853" />
-    <state width="949" height="261" key="GridCell.Tab.0.right" timestamp="1598090962853">
+    <state width="949" height="151" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598092095460" />
+    <state width="949" height="151" key="GridCell.Tab.0.right" timestamp="1598092095461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598090962853" />
+    <state width="949" height="151" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598092095461" />
+    <state x="552" y="235" key="Vcs.Push.Dialog.v2" timestamp="1598092045719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="235" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598092045719" />
+    <state x="756" y="294" key="git4idea.merge.GitPullDialog" timestamp="1598092092931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="294" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598092092931" />
   </component>
 </project>
